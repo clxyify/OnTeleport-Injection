@@ -5,3 +5,5 @@ Automatically **rescans** Roblox due to a **game onTeleport event.**
 If you don't know what a `teleport.inprogress` is, it's where the game decides you to **teleport** to another server. When you **teleport** to that new server, the injection still remains on the old server. In short, your **exploit** will die.
 
 I **advise you** to put this inside of your **Auto Execute** script or **Init** script.
+
+**By the way, you need a custom/skidded DLL source otherwise you wasted your time.**
